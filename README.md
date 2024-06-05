@@ -79,7 +79,8 @@ Deze portfolio bevat twee websites: een Task Manager en een Quotes Generator. Hi
 
 13. **Gebruiken van een flexbox of CSS grid**
     -Flexbox wordt gebruikt om de container te centreren in de viewport.
-
+14. **Promise + consumer methods**
+    -In quotes generatorV2 werd de code herschreven op een andere manier om consumer methods en promises toe te passen
 
 ## Bronnen
 https://stackoverflow.com/questions
