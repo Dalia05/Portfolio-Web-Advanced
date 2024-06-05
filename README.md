@@ -80,3 +80,12 @@ Deze portfolio bevat twee websites: een Task Manager en een Quotes Generator. Hi
 13. **Gebruiken van een flexbox of CSS grid**
     -Flexbox wordt gebruikt om de container te centreren in de viewport.
 
+
+## Bronnen
+https://stackoverflow.com/questions
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+https://www.w3schools.com/js/default.asp
+
+https://sciter.com/forums/topic/how-to-efficiently-restart-css-animations/
