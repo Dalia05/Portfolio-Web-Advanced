@@ -6,7 +6,7 @@ body { /*gebruik van flexbox*/
     height: 800px;
 }
 
-.container {
+.container { /*gebruik van flexbox*/
     background-color:antiquewhite;
     display: flex;
     flex-direction: column;
@@ -16,3 +16,14 @@ body { /*gebruik van flexbox*/
     border-radius: 10px;
 }
 
+#list {
+    margin-top: 20px;
+}
+.task {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+.task span {
+    flex: 1;
+}
